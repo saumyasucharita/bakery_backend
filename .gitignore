@@ -5,3 +5,4 @@ venv/
 *.pyo
 --pycache--/
 db.sqlite3
+.env
