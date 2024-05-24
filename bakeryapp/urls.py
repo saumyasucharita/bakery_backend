@@ -11,6 +11,7 @@ schema_view = swagger_get_schema_view(
         description = "API documentation of App",
     ),
     public=True,
+    # url='https://8c27xdjz.usw3.devtunnels.ms:8000'
 )
 
 router = DefaultRouter()
